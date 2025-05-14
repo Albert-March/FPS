@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"H:/FPS/FPS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"H:/FPS/FPS/Content/BluePrints/1_DamageSystem/BP_DamageBox.uasset",
+				"H:/FPS/FPS/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"H:/FPS/FPS/Content/BluePrints/1_DamageSystem/WBP_HealthBar.uasset",
+				"H:/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/3A/DOBKDRUS2NGCRQM5TXFDNA.uasset",
+				"H:/FPS/FPS/Content/BluePrints/1_DamageSystem/BP_HealthBox.uasset",
+				"H:/FPS/FPS/Content/FirstPerson/BluePrints/1_DamageSystem/BP_DamageBox.uasset",
+				"H:/FPS/FPS/Content/FirstPerson/BluePrints/1_DamageSystem/BP_HealthBox.uasset",
+				"H:/FPS/FPS/Content/FirstPerson/BluePrints/1_DamageSystem/WBP_HealthBar.uasset",
+				"H:/FPS/FPS/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SN/44ZGFTXNB8B9CJA561U63J.uasset",
+				"H:/FPS/FPS/Content/BluePrints/1_DamageSystem/EP_DamageBox.uasset"
+			]
+		}
+	]
+}
